@@ -1,0 +1,11 @@
+# Core Dependencies
+selenium==4.15.2
+pandas==2.1.3
+nltk==3.8.1
+scikit-learn==1.3.2
+streamlit==1.28.0
+joblib==1.3.2
+
+# WebDriver Requirement (Add based on your browser)
+# Note: Install the appropriate WebDriver for your browser version
+# e.g., ChromeDriver for Chrome: https://chromedriver.chromium.org/
